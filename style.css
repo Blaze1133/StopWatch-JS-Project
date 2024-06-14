@@ -1,0 +1,39 @@
+body{
+    font-family: monospace;
+    font-weight: bold;
+    color: rgb(82, 82, 82);
+    text-align: center;
+    background-color: rgb(160, 159, 159);
+    font-size: 18px;
+}
+h1{
+    color: black;
+}
+#container{
+    border: 4px solid black;
+    border-radius: 25px;
+    background-color: rgb(215, 212, 212);
+    font-size: 20px;
+}
+#Start{
+    color: rgba(255, 255, 255, 0.850);
+    background-color: rgb(62, 181, 62);
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    
+}
+#stop{
+    color: rgba(255, 255, 255, 0.850);
+    background-color: red;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+#reset{
+    color: rgba(255, 255, 255, 0.850);
+    background-color: blue;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
